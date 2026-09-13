@@ -1,42 +1,25 @@
-### Estudos de Python
+# 🐍 Estudos de Python
 
-Repositório criado para registrar minha evolução nos estudos de Python
-e Lógica de Programação.
+Repositório criado para registrar minha evolução nos estudos de Python e Lógica de Programação.
 
-### Curso
-Curso em Vídeo
+## 📚 Curso
 
-### Objetivo
-Praticar lógica de programação e desenvolver minha base em Python
-por meio de exercícios práticos.
+**Curso em Vídeo**
 
-### Estrutura
+Este repositório reúne exercícios desenvolvidos durante meus estudos, com foco na prática e no desenvolvimento da lógica de programação.
 
+## 🎯 Objetivo
+
+Praticar lógica de programação, desenvolver minha base em Python e transformar os conceitos estudados em exercícios práticos.
+
+## 📂 Estrutura
+
+Os exercícios estão organizados na pasta `exercicios/`.
+
+```text
 exercicios/
-
 ├── ex001.py
-
 ├── ex002.py
-
 ├── ex003.py
-
 ├── ...
-
 └── ex074.py
-
-### Conteúdos praticados
-
-- Variáveis e tipos de dados
-- Entrada e saída de dados
-- Condicionais
-- Estruturas de repetição
-- Listas e tuplas
-- Funções
-- Módulos
-- Manipulação de dados
-- Lógica de programação
-- Projetos e exercícios interativos
-
-### Em desenvolvimento
-
-> Este repositório continuará sendo atualizado conforme avanço nos estudos de Python.
