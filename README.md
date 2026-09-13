@@ -14,9 +14,13 @@ por meio de exercícios práticos.
 
 exercicios/
 ├── ex001.py
+
 ├── ex002.py
+
 ├── ex003.py
+
 ├── ...
+
 └── ex074.py
 
 ### Conteúdos praticados
