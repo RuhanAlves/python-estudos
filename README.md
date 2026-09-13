@@ -13,6 +13,7 @@ por meio de exercícios práticos.
 ### Estrutura
 
 exercicios/
+
 ├── ex001.py
 
 ├── ex002.py
