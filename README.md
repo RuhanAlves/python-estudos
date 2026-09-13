@@ -23,3 +23,6 @@ exercicios/
 ├── ex003.py
 ├── ...
 └── ex074.py
+```
+
+> Este repositório continuará sendo atualizado conforme avanço nos estudos de Python.
