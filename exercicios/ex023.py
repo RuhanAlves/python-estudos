@@ -1,0 +1,5 @@
+num = int(input('Digite um número de 1 a 9999: '))
+print('Unidade: \033[35m{}\033[m'.format(num // 1 % 10))
+print('Dezena: \033[31m{}\033[m'.format(num // 10 % 10))
+print('Centena: \033[32m{}\033[m'.format(num // 100 % 10))
+print('Milhar: \033[33m{}\033[m'.format(num // 1000))
