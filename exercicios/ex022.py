@@ -1,5 +1,0 @@
-nome = str(input('Digite seu nome: ')).strip()
-print('Bem vindo {}'.format(nome.upper()))
-print('Bem vindo {}'.format(nome.lower()))
-print('O seu nome contem {} caracteres no total'.format(len(nome) - nome.count(' ')))
-print('O seu primeiro nome contem {} letras'.format(len(nome.split() [0])))
